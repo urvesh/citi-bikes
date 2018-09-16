@@ -8,3 +8,6 @@ After you have cloned the repo, run the following commands from the root directo
 `npm start`
 
 The server will then be available at: `http://localhost:4000`
+
+### Run tests
+`npm test`
